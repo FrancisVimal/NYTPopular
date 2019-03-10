@@ -1,5 +1,9 @@
 # NYTPopular
 
+NYTPopular is an iOS App .Developed in xcode 10.1 and Swift 4.2
+
+
+
 A simple app to hit the NY Times Most Popular Articles API and:
 
 1.Show a list of articles newest first(sorted based on date)
@@ -10,3 +14,18 @@ We'll are using the most viewed section of this API. http://api.nytimes.com/svc/
 
 1.all-sections for the section path component in the URL
 2.7 for period
+
+Libraries used show Below
+
+1.Alamofire(Api services)
+2.SDWebImage/WebP
+3.SVProgressHUD
+
+App Flow
+
+
+![](ezgif.com-video-to-gif.gif)
+
+
+1.Coverage  checking
+
