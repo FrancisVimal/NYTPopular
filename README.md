@@ -29,7 +29,7 @@ App Flow
 
 1.Coverage  checking
 
-![](Screenshot 2019-03-10 at 3.43.26 PM.png)
+![](https://github.com/FrancisVimal/NYTPopular/blob/master/Screenshot%202019-03-10%20at%204.33.25%20PM.png)
 
 2.Test repors
 
