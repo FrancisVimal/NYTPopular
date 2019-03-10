@@ -35,3 +35,17 @@ App Flow
 
 ![](https://github.com/FrancisVimal/NYTPopular/blob/master/Screenshot%202019-03-10%20at%203.43.26%20PM.png)
 
+Cocoa Pod Used to install Libraries
+
+
+Installation
+
+Installation by cloning the repository
+Go to directory
+use command + B or Product -> Build to build the project
+Incase of build fail due to dependency SDWebImageView, install SDWebImageView using CocoaPods.
+Press run icon in Xcode or command + R to run the project on Simulator
+
+
+
+
