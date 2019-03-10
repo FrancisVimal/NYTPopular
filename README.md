@@ -27,9 +27,11 @@ App Flow
 ![](ezgif.com-video-to-gif.gif)
 
 
-1.Coverage  checking
+1.Unit Test Screen Short
 
 ![](https://github.com/FrancisVimal/NYTPopular/blob/master/Screenshot%202019-03-10%20at%204.33.25%20PM.png)
 
-2.Test repors
+2.Coverage Reposr
+
+![](https://github.com/FrancisVimal/NYTPopular/blob/master/Screenshot%202019-03-10%20at%203.43.26%20PM.png)
 
