@@ -24,6 +24,11 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        // Hii this is my first commit
+        
+        
+        
        // get popular news
         popularNews.getPopular()
         
